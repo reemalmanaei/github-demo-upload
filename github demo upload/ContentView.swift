@@ -15,9 +15,10 @@ struct ContentView: View {
                 .foregroundColor(.accentColor)
             Text("Hello, world!")
             Text("Hey there")
+            Text("How is your day")
         }
         .multilineTextAlignment(.center)
-        .font(.system(size: 100))
+        .font(.system(size: 30))
         .foregroundColor(.blue)
         .padding()
     }
