@@ -19,7 +19,7 @@ struct ContentView: View {
         }
         .multilineTextAlignment(.center)
         .font(.system(size: 30))
-        .foregroundColor(.blue)
+        .foregroundColor(.purple)
         .padding()
     }
 }
